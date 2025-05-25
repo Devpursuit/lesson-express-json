@@ -1,4 +1,4 @@
-# 🧩 Lesson 5: Use JSON and Middleware
+# 🧩 Use JSON and Middleware
 
 This lesson will show you how to handle JSON data and middleware in Express.
 
