@@ -23,7 +23,7 @@ app.post('/api/users', (req, res) => {
 });
 ```
 
-3. Use Postman or fetch to test it.
+3. Use Postman or Reqbin to test it.
 
 ## 🎯 Success Criteria
 
